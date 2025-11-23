@@ -52,7 +52,7 @@ The goal was to categorise hurricanes in the dataset according to wind speed usi
 `=SWITCH(D4,1,95,2,110,3,129,4,156,5,"157 and over", "Unknown")`
 
 ---
-### 🪞 Reflection 
+### 🪞 Reflections 
 * Each hurricane in the dataset now has a clearly assigned maximum wind speed.
 * The categorisation makes it easier to filter, sort and analyse storms by severity.
 * The most damaging hurricanes were Irma (2017, $300,000M) Katrina (2005, $108,000M) and Jeanne (2004, $7,660M).
